@@ -1,0 +1,4 @@
+[very_interesting_data]
+some_data = "SomeString"
+some_other_data = 42
+important_date = 2022-08-16T07:32:00-08:00
